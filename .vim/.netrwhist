@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/nothing/workpacle/cpluscplus'
+let g:netrw_dirhist_4='/mnt/z/project/inusp'
+let g:netrw_dirhist_3='/mnt/z/project/inusp/.git'
+let g:netrw_dirhist_2='/mnt/z/project/inusp/software/apps/dhcp/common'
+let g:netrw_dirhist_1='/mnt/z/project/inusp/.git'
